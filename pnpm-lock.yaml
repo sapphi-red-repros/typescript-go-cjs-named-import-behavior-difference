@@ -12,8 +12,8 @@ importers:
         specifier: 7.0.0-dev.20251025.1
         version: 7.0.0-dev.20251025.1
       typescript:
-        specifier: ^5.9.3
-        version: 5.9.3
+        specifier: ~5.8.3
+        version: 5.8.3
 
 packages:
 
@@ -56,8 +56,8 @@ packages:
     resolution: {integrity: sha512-zHLmnunbWGLukprLqARRD4mTVSG2m/mmZMyMqzhhYXLLoR2xQSaUs8/oklkgdQW6+oC6TNUnnymVK/lao2tQBg==}
     hasBin: true
 
-  typescript@5.9.3:
-    resolution: {integrity: sha512-jl1vZzPDinLr9eUt3J/t7V6FgNEw9QjvBPdysz9KfQDD41fQrC2Y4vKQdiaUpFT4bXlb1RHhLpp8wtm6M5TgSw==}
+  typescript@5.8.3:
+    resolution: {integrity: sha512-p1diW6TqL9L07nNxvRMM7hMMw4c5XOo/1ibL4aAIGmSAt9slTE1Xgw5KWuof2uTOvCg9BY7ZRi+GaF+7sfgPeQ==}
     engines: {node: '>=14.17'}
     hasBin: true
 
@@ -94,4 +94,4 @@ snapshots:
       '@typescript/native-preview-win32-arm64': 7.0.0-dev.20251025.1
       '@typescript/native-preview-win32-x64': 7.0.0-dev.20251025.1
 
-  typescript@5.9.3: {}
+  typescript@5.8.3: {}
