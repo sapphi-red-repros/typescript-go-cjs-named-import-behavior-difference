@@ -1,0 +1,16 @@
+{
+  "name": "typescript-go-cjs-named-import-behavior-difference",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:tsc": "tsc",
+    "test:tsgo": "tsgo"
+  },
+  "author": "sapphi-red (https://github.com/sapphi-red)",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript/native-preview": "7.0.0-dev.20251025.1",
+    "typescript": "^5.9.3"
+  }
+}
